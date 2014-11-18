@@ -1,7 +1,3 @@
-Getting_Cleaning_data
-=====================
-
-Coursera - Data Science Specialization course 3
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
